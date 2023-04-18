@@ -1,0 +1,22 @@
+# data processing
+numpy
+pandas
+
+# web scraping
+requests
+beautifulsoup4
+
+# networks
+networkx
+
+# statistics/ML
+scikit-learn
+scipy
+statsmodels
+
+# plots
+matplotlib
+seaborn
+
+# notebook
+notebook
