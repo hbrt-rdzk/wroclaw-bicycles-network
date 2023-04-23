@@ -1,0 +1,26 @@
+basemap==1.3.6
+black==23.3.0
+matplotlib==3.7.1
+networkx==2.8.4
+notebook==6.5.4
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.1
+seaborn==0.12.2
+
+# to install any package use:
+    # conda install -y -c anaconda <package_name>
+# to install multiple packages use:
+    # conda install -y -c anaconda <package_name> <package_name_2> ..
+    # or
+    # conda install -y -c anaconda --file deprecated_requirements_conda.txt
+# to install high resolution maps for Basemap:
+    # conda install -y -c conda-forge basemap-data-hires
+# to install Black code formatter for Jupyter Notebooks:
+    # conda install -y -c conda-forge black-jupyter
+# to install Basemap projections on city grid:
+    # conda install -y -c conda-forge owslib
+# to install geojson:
+    # conda install -y -c conda-forge geojson
+# to install descrates:
+    # conda install -y -c conda-forge descartes

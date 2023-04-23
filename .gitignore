@@ -209,3 +209,6 @@ fabric.properties
 
 # idea folder
 .idea
+
+# processed_dataset
+/dataset/processed/
